@@ -1,4 +1,4 @@
-# Week 2 Sensor Integration and Data Acquisition
+# Week 2 Sensor Integration and Data Acquisition 
 
 ## Files
 - `Week2_Sensor_Integration_Report.docx` - submission-ready report
